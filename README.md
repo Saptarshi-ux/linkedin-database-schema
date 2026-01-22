@@ -66,6 +66,6 @@ Direct interaction is managed by the **Messages** table, which records private d
 ```sql
 CREATE DATABASE linkedin_db_new;
 USE linkedin_db_new;
-
+```
 ### Author
 ###### Saptarshi Bandyopadhyay Data Analyst
