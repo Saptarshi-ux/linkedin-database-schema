@@ -62,7 +62,7 @@ Direct interaction is managed by the **Messages** table, which records private d
 * **Data Uniqueness:** Unique constraints on email addresses to prevent duplicate account creation.
 
 ## Setup Instructions
-1. Initialize the database environment:
+Initialize the database environment:
 ```sql
 CREATE DATABASE linkedin_db_new;
 USE linkedin_db_new;
